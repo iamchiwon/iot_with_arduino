@@ -6,8 +6,8 @@
 - MAC OS X (El capitan)
 - MAC OS X (Older)
 
-### Wifi 연결하기
+### 예제
 
-### WiFi 통신 예제 (NTP)
+1. [Wifi 연결하기](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi-Connecting)
 
-- [WiFi NTP Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi_Ntp_Client)
+2. [WiFi NTP Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi_Ntp_Client)
