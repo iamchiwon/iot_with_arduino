@@ -11,6 +11,10 @@
 1. [자동 선풍기](https://github.com/iamchiwon/iot_with_arduino/tree/master/Auto_Fan)
 2. [자동 휴지통](https://github.com/iamchiwon/iot_with_arduino/tree/master/Auto_TrashCan)
 
+### 예제 (프로세싱 실습 응용)
+
+1. [마이너리티 리포트](https://github.com/iamchiwon/iot_with_arduino/tree/master/ImageZoomer)
+
 ### 예제
 
 1. [Wifi 연결하기](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi-Connecting)
