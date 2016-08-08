@@ -6,6 +6,10 @@
 - MAC OS X (El capitan)
 - MAC OS X (Older)
 
+### 예제 (아두이노 실습 응용)
+
+1. [자동 선풍기](https://github.com/iamchiwon/iot_with_arduino/tree/master/Auto_Fan)
+
 ### 예제
 
 1. [Wifi 연결하기](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi-Connecting)
