@@ -19,3 +19,5 @@
 
 1. [Wifi 연결하기](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi-Connecting)
 2. [WiFi NTP Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/WiFi_Ntp_Client)
+3. [WiFi TCP Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/GetWebPage)
+4. [WiFi Http Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/GetWebPage)
