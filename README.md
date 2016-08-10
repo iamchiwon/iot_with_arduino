@@ -23,3 +23,6 @@
 4. [WiFi Http Client](https://github.com/iamchiwon/iot_with_arduino/tree/master/GetWebPage)
 5. [미세먼지 표시기](https://github.com/iamchiwon/iot_with_arduino/tree/master/DustMonitor)
 
+### 예제 (아두이노와 IoT)
+
+1. [ThingSpeak 연동 예제](https://github.com/iamchiwon/iot_with_arduino/tree/master/ThingSpeak)
