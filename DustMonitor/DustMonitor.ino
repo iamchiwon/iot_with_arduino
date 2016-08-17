@@ -6,8 +6,8 @@
 
 #define SENSORDATA_JSON_SIZE (JSON_OBJECT_SIZE(500))
 
-char ssid[] = "SK_WiFiGIGA5F19";
-char pass[] = "1509003823";
+char ssid[] = "iptime";
+char pass[] = "";
 
 const char http_site[] = "openapi.seoul.go.kr";
 const int http_port = 8088;
